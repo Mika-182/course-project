@@ -1,0 +1,23 @@
+{
+  "name": "course-project",
+  "version": "1.0.0",
+  "description": "Simply repository to practice and store knowledge acquired on CS50’s Web Programming with Python and JavaScript\r OpenCourseWare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mika-182/course-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mika-182/course-project/issues"
+  },
+  "homepage": "https://github.com/Mika-182/course-project#readme",
+  "dependencies": {
+    "@angular/cli": "^17.3.7"
+  }
+}
